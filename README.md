@@ -21,13 +21,14 @@
 - **Frameworks & Tools:** Unity, Godot, Swift UI, Flask, MongoDB, Git  
 
 ---
-
+<!---
 ## 📌 Notable Projects  
 - 📊 Developed data visualizations highlighting disparities in education and mental health  
 - ♻️ Built a mobile app providing sustainable resources and recycling info for local communities  
 - 🌐 Designed a STEM resource website for underrepresented high school students  
 
 ---
+-->
 
 ## 📫 Let's Connect!  
 - ✉️ Email: ib2555@columbia.edu  
