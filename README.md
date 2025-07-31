@@ -16,11 +16,9 @@
 
 ---
 
-## 🛠️ Technical Skills  
+## 🛠️ Skills  
 - **Languages:** Java, Python, HTML/CSS, JavaScript, Swift  
 - **Frameworks & Tools:** Unity, Godot, Swift UI, Flask, MongoDB, Git  
-- **Domains:** Web Development, App Development, Game Development  
-- **Languages:** Fluent in English and Spanish  
 
 ---
 
@@ -31,17 +29,9 @@
 
 ---
 
-## 🌟 Activities & Leadership  
-- 💼 Corporate Committee – Women in Computer Science (WiCS)  
-- 🎓 Education Committee – Application Development Initiative (ADI)  
-- 🔑 EDGE Participant – SEO Career  
-- ✍️ Disability Note-taker – Linear Algebra  
-
----
-
 ## 📫 Let's Connect!  
 - ✉️ Email: ib2555@columbia.edu  
-- 💼 [LinkedIn](LinkedIn Profile URL)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/ivannabrigidotorres/)
 - 🌐 [Portfolio](#) _(coming soon)_  
 
 <!--
