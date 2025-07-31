@@ -10,8 +10,7 @@
 ## 🚀 About Me  
 - 🎯 First-year **Computer Science** major and **Applied Mathematics** minor  
 - 🧑‍🏫 Currently **Teaching Assistant** for MITES Summer, co-leading instruction in Multivariable Calculus  
-- 💡 Experienced coding instructor at **theCoderSchool**, teaching Python, Java, and game development  
-- 🔧 Previous intern at **Altair Engineering**, building data processing scripts and extensions in Python  
+- 💡 Experienced coding instructor at **theCoderSchool**, teaching Python, Java, and game development    
 - 🌱 Passionate about creating accessible technology to create **socially impactful projects**  
 
 ---
